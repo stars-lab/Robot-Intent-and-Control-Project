@@ -1,0 +1,16 @@
+TODO: update this readme with more information..
+--Robot Intent and Control--
+Project Lead: Dexter Duckworth/Alex Lalejini
+
+Files:
+cmd_queue.py
+mover.py
+serial_server.py
+socket_server.py
+talk_server.py
+...
+
+
+Dependencies:
+rospy
+...

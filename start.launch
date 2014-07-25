@@ -1,0 +1,3 @@
+<launch>
+	<node name="text_parser" pkg="turtlebot_code" type="text_parser.py" />
+</launch>

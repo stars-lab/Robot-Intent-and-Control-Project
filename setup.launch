@@ -1,0 +1,8 @@
+<launch>
+	<node name="cmd_queue" pkg="turtlebot_code" type="cmd_queue.py" />
+	<node name="mover" pkg="turtlebot_code" type="mover.py" />
+	<node name="odom_server" pkg="turtlebot_code" type="odom_server.py" />
+	<node name="serial_server" pkg="turtlebot_code" type="serial_server.py" />
+	<node name="socket_server" pkg="turtlebot_code" type="socket_server.py" />
+	<node name="tracker" pkg="turtlebot_code" type="tracker.py" />
+</launch>

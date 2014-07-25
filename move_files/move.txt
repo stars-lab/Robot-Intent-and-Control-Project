@@ -1,0 +1,5 @@
+# Valid commands:
+# left, right, forward, backward, scan, estop, track, delay
+
+delay 1
+track 8
